@@ -1,4 +1,7 @@
-# PizzerieZakaznici
+# Aplikace pro rozvržení práce pecí v Pizzerii
+Autor: Petr Čermák
+
+Datum vytvoření: 23. 11. 2025
 ## Úvod
 - Projekt vytvořil Petr Čermák, student Střední Průmyslové Školy Elektrotechnické Ječná
 - Jedná se o příklad systému, který by zjednodušil komunikaci zákazníků s pizzerií
